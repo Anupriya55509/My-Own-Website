@@ -1,0 +1,151 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background-color:#000 ;
+    margin-left:90px;
+    
+}
+header{
+    color:#fff;
+    font-size:35px;
+    
+}
+
+.home h1{
+  color:#fff;
+  font-size:70px;
+  margin-top:40px;
+}
+.home h2{
+    color:#fff;
+    font-size:66px;
+    margin-top:20px;
+    color:#ff4040;
+  }
+.home h3{
+    color:#fff;
+    font-size:30px;
+    margin-top:10px;
+}
+.home p{
+    color:#fff;
+    font-size:60px;
+    margin-top:10px;
+}
+.button{
+    position:relative;
+    justify-content:center;
+    align-items:center;
+    display: inline-flex;
+    width:120px;
+    height:38px;
+    background-color:#ff4040;
+    color:#fff;
+    border-radius:30px;
+    font-size:20px;
+    text-decoration:none;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.home-img{
+    height:600px;
+    width:400px;
+   margin-left:700px;
+   background-size: cover;
+   display:flex;
+}
+.home-sci a{
+     position:relative;
+     justify-content:center;
+     display:inline-flex;
+     align-items:center;
+     width:40px;
+     height:40px;
+     background:transparent;
+     color:#fff;
+     border-radius:50px;
+     font-size:30px;
+     text-decoration:none;
+     bottom:30rem;
+     
+}
+.about-text {
+    color:#fff;
+     margin-bottom:80rem;
+}
+.about-text h2{
+    font-size:70px;
+    color:#ff4040;
+}
+.about-text h3{
+    font-size:30px;
+
+}
+.about-text p{
+    font-size:30px;
+    max-width:600px;
+    margin-top:20px;
+}
+.skill{
+    margin-top:20rem;
+    color:#fff;
+    margin-left:900px;
+}
+.skill h2{
+    font-size:60px;
+    color:#ff4040;
+
+}
+.skill h3
+{
+    font-size:30px;
+}
+.skill p{
+    font-size:25px;
+    margin-top:20px; 
+}
+.box{
+    color:#fff;
+    margin-left:900px;
+}
+.box h3{
+    font-size:30px;
+}
+.box p{
+    font-size:25px;
+    margin-top:20px; 
+}
+.project{
+    color:#fff;
+    margin-top:20rem;
+}
+.project h2{
+    font-size:60px;
+    color:#ff4040;   
+}
+.project h3{
+    font-size:30px;  
+}
+.science h3{
+
+    color:#fff;
+    font-size:30px; 
+    margin-top:20px;
+}
+.contact{
+    color:#fff;
+    margin-left:900px;
+    margin-top:20rem;
+}
+.contact h2{
+    font-size:60px;
+    color:#ff4040;
+}
+.contact a{
+    font-size:30px;
+    line-height:2;
+
+}
